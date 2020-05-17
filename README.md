@@ -4,7 +4,7 @@ Turkcell hattınız üzerinden internette dolaşırken, Dijital Güvenlik Servis
 
 https://www.turkcell.com.tr/servisler/dijital-guvenlik-servisi
 
-https://www.youtube.com/watch?v=hNuFTRkEFbg
+![Watch the video](https://www.youtube.com/watch?v=hNuFTRkEFbg)
 
 ![Digital Guvenlik Servisi](https://github.com/CihanYuceer/Turkcell-Dijital-Guvenlik-Servisi/blob/master/600x300_siber_guvenlik_turkcell%5B2%5D.PNG)
 
